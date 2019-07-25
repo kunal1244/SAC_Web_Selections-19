@@ -1,0 +1,9 @@
+1. Write a PHP calculator class which will accept two values as arguments, then add them, subtract them, multiply them together, or divide them on request.
+For example :
+$mycalc = new MyCalculator( 12, 6); 
+echo $mycalc- > add(); // Displays 18 
+echo $mycalc- > multiply(); // Displays 72
+
+2. Write a PHP program to check a sequence of numbers is an arithmetic progression or not. 
+
+3. Write a PHP program to reverse the bits of an integer (32 bits unsigned).

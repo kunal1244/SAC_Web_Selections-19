@@ -8,4 +8,10 @@ echo $mycalc- > multiply(); // Displays 72
 
 3. Write a PHP program to reverse the bits of an integer (32 bits unsigned).
 
-4. Write a PHP program enabling users to upload images and write a caption.
+4. Write a PHP program enabling users to upload images and write a caption, implementing form validations.
+
+5. Create a custom JSON file with the following keys :
+i. Name
+ii. Roll No.
+iii. Department
+

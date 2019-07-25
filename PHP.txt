@@ -10,8 +10,9 @@ echo $mycalc- > multiply(); // Displays 72
 
 4. Write a PHP program enabling users to upload images and write a caption, implementing form validations.
 
-5. Create a custom JSON file with the following keys :
+5. Create a custom JSON file with 5 entries, and the following keys :
 i. Name
 ii. Roll No.
 iii. Department
+Write a PHP program to populate the JSON onto an HTML page.
 

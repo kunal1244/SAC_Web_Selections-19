@@ -1,0 +1,10 @@
+1. Write a JavaScript function to find longest substring in a given a string without repeating characters in 2 ways :
+a. Using custom JS functions 
+b. Using inbuilt JS methods.
+
+2. Write a JavaScript function to humanized number (Formats a number to a human-readable string.) 
+with the correct suffix such as 1st, 2nd, 3rd or 4th.
+a. Using custom JS functions 
+b. Using inbuilt JS methods.
+
+3. Implement Merge Sort in JavaScript using ES6 classes.
